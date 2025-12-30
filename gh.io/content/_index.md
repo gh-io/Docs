@@ -2,8 +2,10 @@
 layouts: webbiew
 name: Docs
 tittle: markdown-core
-description: node-npmdoc-markdown-it/build/apidoc.html
+navigation: node-npmdoc-markdown-it/build/apidoc.html
+description: 
 ---
+
 
 <link rel="dns-prefetch" href="https://github.githubassets.com">
   <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
